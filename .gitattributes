@@ -1,0 +1,2 @@
+tamil_weights.h5 filter=lfs diff=lfs merge=lfs -text
+tamilasr_weights.h5 filter=lfs diff=lfs merge=lfs -text
